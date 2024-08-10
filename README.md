@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamAkhilaKv
 - 👀 I’m interested in flutter applications
-- like to create flutter application
+- like to create mobile apps
   
 
 
