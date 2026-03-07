@@ -15,7 +15,7 @@ I’m a **Flutter developer** passionate about building **mobile applications** 
 
 ## 📫 Contact Me
 - [GitHub](https://github.com/iamAkhilaKv)  
-- [Portfolio](https://iamakhilakv.github.io/PortfolioNew/)  
+- [Portfolio](https://iamakhilakv.github.io/akhilaPortfolio)  
 
 ---
 
